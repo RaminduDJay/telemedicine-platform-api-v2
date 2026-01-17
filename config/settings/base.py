@@ -21,3 +21,5 @@ INSTALLED_APPS = [
   "video",
   "dashboard",
 ]
+
+AUTH_USER_MODEL = "users.User"
